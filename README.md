@@ -1,2 +1,1 @@
-# tsp-sa
-Traveling Salesman Problem using Simulated Annealing Algorithm
+# TSP-SA : Traveling Salesman Problem using Simulated Annealing Algorithm
